@@ -24,6 +24,9 @@ p {
 #text:has(.fancy:hover) .word:not(.fancy:hover) {
     opacity: 0.2;
 }
+/* .juice:hover ~ * {
+    color: red;
+} */
 
 
 .fancy > .letter {
