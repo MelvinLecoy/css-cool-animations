@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(10, 10, 10);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+}
+
+.link {
+    width: 100%;
+    display: block;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
