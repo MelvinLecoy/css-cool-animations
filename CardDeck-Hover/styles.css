@@ -36,43 +36,43 @@ body {
 
 
 .big:nth-child(2) {
-    background-image: url("8.png");
+    background-image: url("../images/8.png");
     background-size: cover;
     transform: translate(-10%) rotate(-8deg);
 }
 .big:nth-child(4) {
-    background-image: url("4.png");
+    background-image: url("../images/4.png");
     background-size: cover;
     transform: translate(0%) rotate(2deg);
 }
 .big:nth-child(6) {
-    background-image: url("6.png");
+    background-image: url("../images/6.png");
     background-size: cover;
     transform: translate(-6%) rotate(-3deg);
 }
 .big:nth-child(8) {
-    background-image: url("2.png");
+    background-image: url("../images/2.png");
     background-size: cover;
     transform: translate(10%, 3%) rotate(5deg);
 }
 
 .lil:nth-child(1) {
-    background-image: url("1.png");
+    background-image: url("../images/1.png");
     background-size: cover;
     transform: translate(-10%) rotate(-1deg);
 }
 .lil:nth-child(3) {
-    background-image: url("3.png");
+    background-image: url("../images/3.png");
     background-size: cover;
     transform: translate(0%) rotate(2deg);
 }
 .lil:nth-child(5) {
-    background-image: url("5.png");
+    background-image: url("../images/5.png");
     background-size: cover;
     transform: translate(-6%) rotate(-3deg);
 }
 .lil:nth-child(7) {
-    background-image: url("7.png");
+    background-image: url("../images/7.png");
     background-size: cover;
     transform: translate(10%, 3%) rotate(5deg);
 }
